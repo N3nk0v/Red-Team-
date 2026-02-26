@@ -22,10 +22,13 @@ Projects in this category follow a structured process:
 1. Recon → Identify exposed assets, services, and potential entry points  
 2. Analysis → Evaluate weaknesses, configurations, and observable patterns  
 3. Simulation → Demonstrate controlled exploitation scenarios  
-4. Defensive Insight → Document mitigation strategies and security improvements  
+4. Defensive Insight → Document mitigation strategies and security improvements
+
+## 📌 Projects
+(Projects will be listed here as they are added.)
+- [Python Dependency Installer](https://github.com/N3nk0v/Automated-Alfa-Adapter-Monitor-Mode-Setup)
 
 ## 🛡 Responsible Use
 All tools and techniques demonstrated here are intended strictly for laboratory environments, systems owned by the author, or explicitly authorized security assessments. Unauthorized use against third-party systems is unethical and illegal.
 
-## 📌 Projects
-(Projects will be listed here as they are added.)
+
