@@ -26,7 +26,7 @@ Projects in this category follow a structured process:
 
 ## 📌 Projects
 (Projects will be listed here as they are added.)
-- [Alfa-Monitor-Mode-Setup](https://github.com/N3nk0v/Automated-Alfa-Adapter-Monitor-Mode-Setup)
+- [Automated-Alfa-Adapter-Monitor-Mode-Setup](https://github.com/N3nk0v/Automated-Alfa-Adapter-Monitor-Mode-Setup)
 
 ## 🛡 Responsible Use
 All tools and techniques demonstrated here are intended strictly for laboratory environments, systems owned by the author, or explicitly authorized security assessments. Unauthorized use against third-party systems is unethical and illegal.
